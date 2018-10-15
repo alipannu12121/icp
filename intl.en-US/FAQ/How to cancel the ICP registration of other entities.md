@@ -1,0 +1,34 @@
+# How to cancel the ICP registration of other entities {#concept_gfl_x2z_52b .concept}
+
+Cancellation that is caused by a domain name conflict cannot be done in the Alibaba Cloud ICP Filing system. You need to submit the written application to the corresponding Communications Administration \(CA\) to cancel the registration in an offline procedure. You can reregister for the domain name after the cancellation of the original registration.
+
+## Procedure {#section_gnh_55x_zdb .section}
+
+To cancel the registration in an offline procedure, follow these steps:
+
+1.  Go to the CA website of the province or the city where your website is registered.
+2.  Download and print [Application Form of Cancellation of Registration](reseller.en-US/FAQ/How to cancel the ICP registration of other entities.md#section_nkv_1r2_v2b).
+3.  Fill out the form as required.
+4.  Submit the application form and the documents to the CA as required.
+
+**Note:** 
+
+-   See [How to find back password of ICP registration by MIIT](reseller.en-US/FAQ/Other FAQs/How can I retrieve my MIIT ICP Filing password?.md#) if you forget your password.
+-   The website cannot be accessed after the approval for cancellation by the CA. You can reapply for the registration of the domain name after cancellation.
+-   You can go to [MIIT ICP Registration Management System](http://www.miitbeian.gov.cn) and click **Public Inquiry** in the lower right corner for inquiries on registration information.
+
+    ![](images/11198_en-US.png)
+
+
+## Download the application form for cancellation of registration {#section_nkv_1r2_v2b .section}
+
+You can directly click the following links to download the corresponding application forms:
+
+[Beijing](http://bcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=1F8CDE6614FE88372567B8E480A1D342?id=7), [Guangdong](http://gdcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=11D98F03D10723A0333BB562337D56C8?id=18), [Zhejiang](http://zcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action?id=31), [Jiangsu](http://jscainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action?id=2), [Hebei](http://hbcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action?id=1), [Henan](http://hcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=6D748424B16D9D7123D701E7F23DEDEA?id=1), [Shandong](http://imgs-storage.cdn.aliyuncs.com/help/beian/%E5%B1%B1%E4%B8%9C%E6%B3%A8%E9%94%80%E5%A4%87%E6%A1%88%E7%94%B3%E8%AF%B7%E8%A1%A8.doc?spm=5176.7736988.0.0.fLqgDU&file=%E5%B1%B1%E4%B8%9C%E6%B3%A8%E9%94%80%E5%A4%87%E6%A1%88%E7%94%B3%E8%AF%B7%E8%A1%A8.doc), [Shanxi](http://sxcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=2BE81A301C27B3471D3C59ED431E3223?id=2), [Hubei](http://ecainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action?id=13), [Tianjin](http://tjcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=36EB9C3312F87278EF8568B51DF49963?id=8), [Chongqing](http://cqcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=85B1049BF601BC4F8D55112F85317D11?id=21), [Liaoning](http://lncainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=9BDFDA5DAF494982C45D6A8CD277C225?id=11), [Jilin](http://jlcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=32C6588B35102D127588F0A589956D8F?id=1), [Yunnan](http://yncainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=216CA3184F2412B2A347EC17FDDE7AA7?id=2), [Guizhou](http://gzcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=C4C461304A00806C9FAC64BB253325AE?id=16), [Jiangxi](http://jxcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=8EC4442121772B901CF1FA91934653EA?id=1), [Anhui](http://ahcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=0C615D2696D48398E28670AEB8A2E5F6?id=12), [Fujian](http://fjcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=F61855270D01B8A48840224BE2C783EA?id=6), [Guangxi](http://gxcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=661BA0A41B8CED69985C5C17732FE97E?id=7), [Hainan](http://hncainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=9CB990A7B32D67C3061E673AB6767884?id=1), [Inner Mongolia](http://nmcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=35AF73896F124C6BB06F6AF328B8733F?id=21), [Shaanxi](http://shxcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=51A0874FEBC3C49F793FC38B4C87053F?id=16), [Qinghai](http://qhcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=AB4723653C122BD3E67AD222EDB06946?id=9), [Ningxia](http://aliyun_portal_storage.oss-cn-hangzhou.aliyuncs.com/help%2Fbeian%2F%E5%AE%81%E5%A4%8F%E6%B3%A8%E9%94%80%E5%A4%87%E6%A1%88%E7%94%B3%E8%AF%B7%E8%A1%A8.doc?spm=5176.7736988.0.0.isa2SB&file=help%2Fbeian%2F%E5%AE%81%E5%A4%8F%E6%B3%A8%E9%94%80%E5%A4%87%E6%A1%88%E7%94%B3%E8%AF%B7%E8%A1%A8.doc), [Xinjiang](http://xjcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=92F9FBEC9DE5D3E5BEC672E9804F56DA?id=16), [Gansu](http://gscainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=6FF388EF9F0BB2662F7A24AA3C17B801?id=20), [Tibet](http://xzcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=7ACDC5FF4FD247C5FBD22F8D25F479A8?id=4), [Heilongjiang](http://hlcainfo.miitbeian.gov.cn/state/outPortal/queryMutualityDownloadInfo.action;jsessionid=F474AEE96D88343808438A200FBED7F5?id=43)
+
+**Note:** 
+
+-   If you fail to jump to the website of the [Shanghai CA](https://beian.shca.gov.cn/) after clicking the link, copy and paste `beian.shca.gov.cn` into your browser’s address bar to visit the website.
+-   If you fail to jump to the website of the [Sichuan CA](http://www.028icp.com/) after clicking the link, copy and paste `028icp.com` into your browser's address bar to visit the website. Application for the cancellation on the website of Sichuan CA requires account creation.
+-   If you fail to jump to the website of the [Hunan CA](http://bsdt.xca.gov.cn/zwdtportal/wzzxManage/toSitesLogoutPage.jsi) after clicking the link, copy and paste `bsdt.xca.gov.cn/zwdtportal/wzzxManage/toSitesLogoutPage.jsi` into your browser's address bar to visit the website. The local CA processes submitted online applications every Friday.
+
