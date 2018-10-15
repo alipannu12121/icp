@@ -18,15 +18,15 @@ You have obtained an ICP Filing license with your domain name and identification
     -   Modify subject information: If you want to modify the information of the ICP Filing subject, the new information must also meet the requirements of the local administration.
     -   Modify website information: Modify the website information according to your actual situation.
 
-        **Note:** From 00:00 January 1, 2018,  the relevant provincial/municipal authorities perform domain name verification to all submitted ICP Filing applications. MIIT has published requirements for domain name verification. For more information, see [Domain name information verification](../../../../intl.en-US/FAQ/Domain name information verification.md#).
+        **Note:** From 00:00 January 1, 2018,  the relevant provincial/municipal authorities perform domain name verification to all submitted ICP Filing applications. MIIT has published requirements for domain name verification. For more information, see [Domain name information verification](../../../../reseller.en-US/FAQ/Domain name information verification.md#).
 
     If you cannot find the related button, the reason may be that:
 
     -   you have another ICP Filing in progress that uses your ICP Filing information.  Different types of ICP Filing cannot be processed at the same time.
     -   The local administration does not allow information modification. In this case, you must cancel the ICP Filing first and apply for an ICP Filing again.
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14197/5718_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14197/15395713225718_en-US.jpg)
 
-3.  Enter your new information. For more information about what information you must provide, see [Subject and website information FAQs](../../../../intl.en-US/FAQ/Subject and website information FAQs.md#)
+3.  Enter your new information. For more information about what information you must provide, see [Subject and website information FAQs](../../../../reseller.en-US/FAQ/Subject and website information FAQs.md#)
 4.  Upload all the required documents.
 
     -   Upload scanned copies or photos of your ID card and other required documents.
@@ -34,37 +34,37 @@ You have obtained an ICP Filing license with your domain name and identification
     -   If domain name certificates are required by the local authorities, contact your domain name provider for your domain name certificates.
     After you upload all the required documents, click **submit**, and click **OK**. 
 
-    For more information, see [Document uploading FAQs](../../../../intl.en-US/FAQ/Document uploading FAQs.md#).
+    For more information, see [Document uploading FAQs](../../../../reseller.en-US/FAQ/Document uploading FAQs.md#).
 
     Screenshot examples of the document uploading page.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/5662_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395713235662_en-US.jpg)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/5663_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395713235663_en-US.png)
 
     After you submit your information and documents,  Alibaba Cloud will review your information and documents in one workday. After you submit your ICP Filing information for Alibaba Cloud review, make sure that your phone number is in service and the call is answered during the normal working hours in China. If we find any problem , we contact you by the phone number in your ICP Filing information.
 
 5.  After your information passes Alibaba Cloud review, log on to the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/selfBaIndex.htm) to upload a picture of the website administrator as required for verification.
 
-    **Note for Shanghai users: ** Shanghai Communications Administration requires that ICP Filing applicants in Shanghai **must** use Shanghai Communications Administration app \(only available in Chinese\) to verity the website administrator.  For more information, see [Using Shanghai communications administration app to verify the website administrator](intl.en-US/ICP Filing Procedures/Using Shanghai Communications Administration app to verify the website administrator.md#).
+    **Note for Shanghai users: ** Shanghai Communications Administration requires that ICP Filing applicants in Shanghai **must** use Shanghai Communications Administration app \(only available in Chinese\) to verity the website administrator.  For more information, see [Using Shanghai communications administration app to verify the website administrator](reseller.en-US/ICP Filing Procedures/Using Shanghai Communications Administration app to verify the website administrator.md#).
 
     For other regions, ICP applicants can select one of several designated places, which are scattered in most major cities in China, to take an official photo and upload the photo for verification as part of the application process. This rule demands the applicants to physically present in China long enough to have a picture taken. However, Alibaba Cloud can make it easier. You can apply for an official background \(that is, “photo backdrop”\) from the document uploading page of your ICP Filing process. Click **Enter Your Address**, and enter an address of mainland China.  Alibaba Cloud can mail the photo backdrop to any region in mainland China. The website administrator takes a picture in front of the backdrop and upload the picture. Do not wear in red or blue when taking the picture.
 
-    For more information, see [Website administrator verification FAQs](../../../../intl.en-US/FAQ/Website administrator verification FAQs.md#section_tb4_cht_zdb).
+    For more information, see [Website administrator verification FAQs](../../../../reseller.en-US/FAQ/Website administrator verification FAQs.md#section_tb4_cht_zdb).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/5688_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395713235688_en-US.png)
 
     Alibaba Cloud submits your information for the local communications administration review in one workday after you upload acceptable picture.
 
 6.  Verify the mobile phone number of the subject and website administrators. Currently, mobile phone verification is supported in  Tianjin, Gansu, Tibet, Ningxia, Hainan, Xinjiang, and Qinghai. Other provinces do not require mobile phone number verification.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/5690_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395713235690_en-US.jpg)
 
     If you apply for ICP Filing in these regions, you will receive a text message \(in Chinese\) from the MIIT in five minutes after you get a message and an email from Alibaba Cloud.
 
     **You must follow the message to verify your mobile phone number within 48 hours. If you have not finish the verification in 48 hours, your ICP Filing application will be rejected**.
 
-    For more information about mobile phone number verification, see [Mobile phone number verification for ICP Filing](intl.en-US/ICP Filing Procedures/Mobile phone number verification for ICP Filing.md#).
+    For more information about mobile phone number verification, see [Mobile phone number verification for ICP Filing](reseller.en-US/ICP Filing Procedures/Mobile phone number verification for ICP Filing.md#).
 
 
 The local communications administration may take 3 to 20 workdays to review your ICP Filing information.。
