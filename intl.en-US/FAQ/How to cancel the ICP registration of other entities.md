@@ -17,9 +17,6 @@ To cancel the registration in an offline procedure, follow these steps:
 -   The website cannot be accessed after the approval for cancellation by the CA. You can reapply for the registration of the domain name after cancellation.
 -   You can go to [MIIT ICP Registration Management System](http://www.miitbeian.gov.cn) and click **Public Inquiry** in the lower right corner for inquiries on registration information.
 
-    ![](images/11198_en-US.png)
-
-
 ## Download the application form for cancellation of registration {#section_nkv_1r2_v2b .section}
 
 You can directly click the following links to download the corresponding application forms:
