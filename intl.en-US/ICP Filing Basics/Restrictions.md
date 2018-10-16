@@ -29,7 +29,6 @@
  -   ECS: A subscription of more than three months with a public network bandwidth assigned is required.
 -   Web Hosting: A subscription of more than six months is required.
 -   Simple Application Server: A subscription of more than three months is required.
--   略
 -   Web builder marketplace \(Alibaba Cloud Marketplace\) product: The first subscription of more than 12 months with the order of more than RMB 99 is required.
 
  |
@@ -37,7 +36,6 @@
 -   You can apply for five service identification numbers for each Simple Application Server instance \(subscription of more than three months\).
 -   You can apply for five service identification numbers for each Web Hosting instance \(subscription of more than six months\) according to your Alibaba Cloud account. You can apply for five service identification numbers for each Alibaba Cloud account.
 -   You can apply for one service identification number and submit the application for the ICP registration of one website for each Web builder marketplace \(Alibaba Cloud Marketplace\) product \(first subscription of more than 12 months and with the order of more than RMB 99\).
--   ---略---
 
  If the identification number for ICP registration is used and the ICP registration is successful, the number cannot be reused any longer. Each web builder marketplace \(Alibaba Cloud Marketplace\) product can be associated with only one identification number for ICP registration.
 
