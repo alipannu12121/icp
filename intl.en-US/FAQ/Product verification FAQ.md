@@ -1,32 +1,32 @@
 # Product verification FAQ {#concept_jyc_xrl_zdb .concept}
 
-When you submit ICP Filing application through Alibaba Cloud ICP Filing system, the system verifies your ECS instances.
+When you submit an ICP Filing application through the Alibaba Cloud ICP Filing system, the system will verify your Alibaba Cloud ECS instances.
 
-## Why did I fail the product verification? {#section_ogq_tws_zdb .section}
+## Why did the product verification fail? {#section_ogq_tws_zdb .section}
 
-After you submit product verification information, if you see "Invalid product information", "ICP filing information already submitted", or other prompts, it indicates that the product verification fails.
+Your product verification has failed if the following system prompts are displayed after submitting product verification information: 1. "Invalid product information." 2. "ICP filing information already submitted." 3. Other types of system prompts are displayed.
 
-Possible reasons for verification failure and corresponding solutions are as follows:
+Possible verification failure causes and corresponding solutions are as follows:
 
--   If the information you entered is incorrect, the system prompts "Invalid product information". In this case, verify that the selected product type matches the product you purchased. For an ECS instance,  select **Alibaba Cloud** and use the ICP Filing service code for verification.
--   If the system prompts "A website ICP Filing application has already been submitted for this product. The ICP Filing subject quantity limit has been reached. Please switch to another product", it indicates that the ICP Filing subject quota of the current server has been reached. In this case, we recommend that you switch to another ECS instance for product verification.
--   If the system prompts "Product information verification failed. Interface exception",  it indicates that the ICP Filing service code is invalid. In this case, verify that the ECS instance you used to apply for the ICP Filing service code has not expired. If the ECS instance has expired, the service code is invalid. In this case, apply for an ICP Filing service code using a valid ECS instance.
+-   If the information you entered is invalid, the following system prompt will be displayed: "Invalid product information." In this case, verify if the selected product type matches your purchased product . For an ECS instance, select **Alibaba Cloud** and use the ICP Filing service number for verification.
+-   If the number of ICP Filing subjects that can be filed for the current server has reached its limit, the following system prompt will be displayed: "A website ICP Filing application has already been submitted for this product and the number of ICP Filing subjects has reached the limit. Switch to another product." In this case, we recommend that you switch to another ECS instance for product verification.
+-   If the ICP Filing service number is invalid, the following system prompt will be displayed: "Product information verification failed. Interface exception." In this case, verify if the server you used to apply for the ICP Filing service number has expired. If the server expires, the service number will become invalid. In this case, apply for an ICP Filing service number using a valid server.
 
-For more server-related issues, see [Alibaba Cloud server FAQs](intl.en-US/FAQ/ECS instance FAQs.md#).
+For more server-related issues, see [Alibaba Cloud ECS FAQs](reseller.en-US/FAQ/ECS instance FAQs.md#).
 
-## Related Documents {#section_frb_hss_zdb .section}
+## Related documents {#section_frb_hss_zdb .section}
 
-[ICP Filing preparation](../../../../intl.en-US/ICP Filing Basics/Preparation for ICP Filing.md#)
+[ICP Filing preparation](../../../../reseller.en-US/ICP Filing Basics/Basics of ICP registration.md#)
 
-[Alibaba Cloud server FAQs](intl.en-US/FAQ/ECS instance FAQs.md#)
+[Alibaba Cloud server FAQs](reseller.en-US/FAQ/ECS instance FAQs.md#)
 
-[Why are the buttons not displayed on my page?](intl.en-US/FAQ/Buttons on ICP Filing system/Why are the buttons not displayed on my page?.md#)
+[Why are the buttons not displayed on my page?](reseller.en-US/FAQ/Buttons on ICP Filing system/Why are the buttons not displayed on my page?.md#)
 
-[Domain name FAQs](intl.en-US/FAQ/Domain name FAQs.md#)
+[Domain name FAQs](reseller.en-US/FAQ/Domain name FAQs.md#)
 
-[Subject and website information FAQs](intl.en-US/FAQ/Subject and website information FAQs.md#)
+[Subject and website information FAQs](reseller.en-US/FAQ/Subject and website information FAQs.md#)
 
-[Domain name information verification](intl.en-US/FAQ/Domain name information verification.md#)
+[ICP Filing domain name verification](reseller.en-US/FAQ/Domain name information verification.md#)
 
-[Mobile phone number verification](../../../../intl.en-US/ICP Filing Procedures/Mobile phone number verification for ICP Filing.md#)
+[Text message verification for ICP Filing](../../../../reseller.en-US/ICP Filing Procedures/Mobile phone number verification for ICP Filing.md#)
 
