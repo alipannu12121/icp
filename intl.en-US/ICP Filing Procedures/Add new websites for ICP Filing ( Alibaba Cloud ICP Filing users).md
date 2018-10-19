@@ -9,33 +9,33 @@ The ICP Filing subject, once filed ICP records through Alibaba Cloud, now has a 
 
     If the button is not displayed, it may because you already have an ICP Filing order in process. You must finish that order or withdraw it before submitting another application. You can abandon the currently in progress filing order or wait for the filing order to pass the review.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15395715065767_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15399353665767_en-US.jpg)
 
 3.  Make sure the subject information is correct, and click **Next**.
 
     If the subject information is not correct, click **Modify Subject information** and modify the information \(you cannot add a new website ICP Filing when you modify the information \). For information about how to modify ICP Filing information, see [Modify ICP Filing information](reseller.en-US/ICP Filing Procedures/Change ICP Filing information.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15395715065768_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15399353665768_en-US.jpg)
 
 4.  Verify your Alibaba Cloud ECS instance.
 
-    For **Product Type**, select **Alibaba Cloud** and verify the instance by an ICP Filing service code. You apply an ICP Filing service code from the ICP Filing page in the Alibaba Cloud console. For more information about ICP Filing service code application, see [Apply for ICP Filing service codes](reseller.en-US/ICP Filing Procedures/Apply for ICP Filing service codes.md#).
+    For **Product Type**, select **Alibaba Cloud** and verify the instance by an ICP Filing service code. You apply an ICP Filing service code from the ICP Filing page in the Alibaba Cloud console. For more information about ICP Filing service code application, see [Apply for ICP Filing service codes](reseller.en-US/ICP Filing Procedures/Apply for ICP Filing service numbers.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15395715065769_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15399353665769_en-US.jpg)
 
 5.  Enter the information of the website.
 
     If the content of the website contains a type in the **Preapproval List**, you must first consult the competent department of the local government. If no preapproval content is included,  you can leave it empty.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15395715065770_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15399353665770_en-US.jpg)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15395715066131_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14200/15399353666131_en-US.jpg)
 
 6.  Upload scanned copies or photos of the required documents, and click **Submit**.
 
     You must download the corresponding template of the authenticity statement under **Upload website ICP Filing information authenticity form**.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395715075663_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15399353665663_en-US.png)
 
     For more information, see [Document uploading FAQs](../../../../reseller.en-US/FAQ/Document uploading FAQs.md#section_cfv_rbt_zdb).
 
@@ -47,7 +47,7 @@ The ICP Filing subject, once filed ICP records through Alibaba Cloud, now has a 
 
 8.  Verify the mobile phone number of the subject and website administrators. Currently, mobile phone verification is required by Tianjin, Gansu, Tibet, Ningxia, Hainan, Xinjiang, and Qinghai. Other provinces do not require mobile phone number verification.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15395715075690_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15399353665690_en-US.jpg)
 
     If you apply for ICP Filing in these regions, you will receive a text message \(in Chinese\) from the MIIT in five minutes after you get a message and an email from Alibaba Cloud.
 
