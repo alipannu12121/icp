@@ -4,21 +4,21 @@ The following are FAQs about domain names for ICP Filing.
 
 -   [Why does my website domain name fail the domain name verification?](#section_hq2_xls_zdb)
 
--   [My domain name is not registered with my own information. What can I do?](#section_oq2_xls_zdb)
+-   [My domain name is not registered with my own information. What can I do?](#)
 
--   [How do I apply for an ICP Filing when multiple domain names direct to the same website?](#section_pq2_xls_zdb)
+-   [How do I apply for an ICP Filing when multiple domain names direct to the same website?](#)
 
--   [Do I have to apply for ICP Filing for second-level domain names?](#section_sq2_xls_zdb)
+-   [Do I have to apply for ICP Filing for second-level domain names?](#)
 
--   [Can I apply for ICP Filing for country-specific domain names and domain names registered outside mainland China?](#section_uq2_xls_zdb)
+-   [Can I apply for ICP Filing for country-specific domain names and domain names registered outside mainland China?](#)
 
--   [How to obtain a domain name certificate?](#section_vq2_xls_zdb)
+-   [How to obtain a domain name certificate?](#)
 
--   [The domain name I recently purchased already has an MIIT ICP Filing number. What can I do?](#section_wq2_xls_zdb)
+-   [The domain name I recently purchased already has an MIIT ICP Filing number. What can I do?](#)
 
--   [The system prompts that my domain name is not supported by the ICP Filing system. What can I do?](#section_yq2_xls_zdb)
+-   [The system prompts that my domain name is not supported by the ICP Filing system. What can I do?](#)
 
--   [When I submit an application, the system prompts that the subject information for this domain name already exists. What can I do?](#section_zq2_xls_zdb)
+-   [When I submit an application, the system prompts that the subject information for this domain name already exists. What can I do?](#)
 
 
 ## Why does my website domain name fail the domain name verification? {#section_hq2_xls_zdb .section}
@@ -70,7 +70,7 @@ If multiple domain names direct to different websites, you must finish the infor
 
 You must apply for ICP Filing from the MIIT for domain names that direct to websites hosted on servers in mainland China. After a top-level domain name is ICP filed, its second-level domain names and other sub-domain names can direct to a server in mainland China. You are not  required to apply for ICP Filing for these domain names.
 
--   If the ICP Filing number of your top-level domain name is not obtained through Alibaba Cloud, you must transfer the ICP Filing information of the top-level domain name to Alibaba Cloud \(a top-level domain name can have multiple transfer providers\). see [Transfer an ICP Filing](../../../../intl.en-US/ICP Filing Procedures/Transfer an ICP license to Alibaba Cloud.md#).
+-   If the ICP Filing number of your top-level domain name is not obtained through Alibaba Cloud, you must transfer the ICP Filing information of the top-level domain name to Alibaba Cloud \(a top-level domain name can have multiple transfer providers\). see [Transfer an ICP Filing](../../../../intl.en-US/ICP Filing Procedures/Transfer ICP Filings.md#).
 -   According to MIIT regulations, you cannot provide website access using top-level domain names that have not obtained ICP Filing numbers. If a top-level domain name has no ICP Filing number, you must submit an ICP Filing application for this domain name. After the application is approved, its second-level domain names and other sub-domain names can be accessed normally. For more information about the initial ICP Filing process, see [Guide for ICP Filing process](../../../../intl.en-US/ICP Filing Procedures/ICP Filing for the first time.md#).
 
 ## Can I apply for ICP Filing for country-specific domain names and domain names registered outside mainland China? {#section_uq2_xls_zdb .section}
