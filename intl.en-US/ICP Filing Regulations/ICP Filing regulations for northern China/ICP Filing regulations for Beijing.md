@@ -5,7 +5,7 @@
 -   Enterprises: Use the business licenses for ICP Filing. The subject administrator must be the legal representative.
 -   Individuals: Chinese citizens must use ID cards for ICP Filing.
 -   The domain name owner must be the ICP Filing owner.
--   Domain names registered outside China or with some country codes are not supported.  For the requirements, see [Beijing requirements for domain names](https://help.aliyun.com/knowledge_detail/36905.html). If multiple domain names direct to the same website, state that “The domain names direct to the same website” in the remarks.  If multiple domain names direct to different websites or the domain names have obviously different prefixes, apply for ICP Filings separately.
+-   Domain names registered outside China or with some country codes are not supported. If multiple domain names direct to the same website, state that “The domain names direct to the same website” in the remarks.  If multiple domain names direct to different websites or the domain names have obviously different prefixes, apply for ICP Filings separately.
 
 ## Documents required for ICP Filing {#section_akq_zwm_zdb .section}
 
