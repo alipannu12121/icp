@@ -17,7 +17,7 @@ Currently, the Alibaba Cloud ECS that supports ICP registration is an instance t
 If the **Apply** button does not appear in the action bar for your product instance, the reasons may be as follows:
 
 -   The account you are using is not the one that you used when you purchased the server. Use the account that you used to purchase the server.
--   You chose Pay-As-You-Go as the billing method for your ESC instance. Pay-As-You-Go instances do not support registration. Change your billing method [From Pay-As-You-Go to Subscription](../../../../intl.en-US/Pricing/Switch from Pay-As-You-Go to subscription.md#), and purchase a subscription of more than three months.
+-   You chose Pay-As-You-Go as the billing method for your ESC instance. Pay-As-You-Go instances do not support registration. Change your billing method [From Pay-As-You-Go to Subscription](../../../../intl.en-US/Pricing/Switch from Pay-As-You-Go to Subscription billing.md#), and purchase a subscription of more than three months.
 -   You chose Subscription as the billing method for your ESC instance and the remaining time before it expires meets the requirements for registration. In this case, check if the instance has a public network bandwidth assigned. If not, see Section “Public IP address assignment” in [Configuration upgrade and downgrade](../../../../intl.en-US/User Guide/Instances/Change configurations/Overview of configuration changes.md#).
 -   You chose Subscription as the billing method for your ESC instance, but the remaining time before it expires does not meet the requirements for registration. In this case, renew the subscription.
 -   Your ECS instance has expired. An expired instance cannot apply for the ICP Filing service code.
