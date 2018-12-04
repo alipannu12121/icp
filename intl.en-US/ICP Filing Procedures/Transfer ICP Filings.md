@@ -4,8 +4,8 @@ If you have filed a website domain name ICP Filing through another service provi
 
 Alibaba Cloud provides two types of ICP Filing transfer:
 
--   [Transfer an external ICP Filing](#section_ss5_rrz_zdb): The ICP Filing subject has never been filed through the Alibaba Cloud ICP Filing
--   [Continue to transfer an ICP Filing](#section_int_j5z_zdb): The ICP Filing subject was filed through the Alibaba Cloud ICP Filing system.
+-   [Transfer an external ICP Filing](#): The ICP Filing subject has never been filed through the Alibaba Cloud ICP Filing
+-   [Continue to transfer an ICP Filing](#): The ICP Filing subject was filed through the Alibaba Cloud ICP Filing system.
 
 ## Note {#section_l4p_2f3_r2b .section}
 
@@ -13,7 +13,7 @@ Alibaba Cloud provides two types of ICP Filing transfer:
 -   Your ICP Filing data with the previous service provider is unaffected. You can use both service provider servers.
 -   You must follow the local [ICP Filing regulations](https://beian.aliyun.com/#MapDataContainer) when entering the filing information and uploading the required documents.
 -   If you have submitted an ICP Filing subject to Alibaba Cloud, but want to transfer the subject's domain name from another service provider to Alibaba Cloud, log on to the Alibaba Cloud ICP Filing system using the account that submitted the initial ICP Filing and update your submission to include the domain name.
--   If you use the HiChina ICP Filing platform, you need to import your ICP Filing information to the Alibaba Cloud ICP Filing system first. For more information about the importing procedures, see [Alibaba Cloud ICP Filing system FAQs](https://help.aliyun.com/document_detail/48581.html).
+-   If you use the HiChina ICP Filing platform, you need to import your ICP Filing information to the Alibaba Cloud ICP Filing system first. For more information about the importing procedures, see [Alibaba Cloud ICP Filing system FAQs](../../../../intl.en-US/FAQ/Alibaba Cloud ICP Filing system FAQs.md#).
 -   If you change the filing subject or the website administrator after the ICP Filing transfer is completed, update the filing information in time.
 
 ## Transfer an external ICP Filing {#section_ss5_rrz_zdb .section}
@@ -24,7 +24,7 @@ Alibaba Cloud provides two types of ICP Filing transfer:
 
     **Note:** The information you entered must be consistent with the original filing information, or the system will misdetermine the ICP Filing type.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15399351165652_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15439126495652_en-US.jpg)
 
 2.  Verify your Alibaba Cloud ECS instance.
 
@@ -36,7 +36,7 @@ Alibaba Cloud provides two types of ICP Filing transfer:
 
     **Note:** If you forget your ICP Filing password, you can retrieve it from the [MIIT website](http://www.miitbeian.gov.cn). See [How to retrieve my MIIT ICP Filing password](../../../../intl.en-US/FAQ/Other FAQs/How can I retrieve my MIIT ICP Filing password?.md#).
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15399351165751_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15439126495751_en-US.jpg)
 
 4.  Enter the ICP Filing subject and the website administrator information.
 
@@ -48,11 +48,11 @@ Alibaba Cloud provides two types of ICP Filing transfer:
     -   The **Subject Document Address** and the **Subject Mailing Address** must be in the same province.
     -   If you cannot provide a specific street number, you must provide an explanation in remarks.
     -   Make sure you have provided valid contact information, including the email address and the phone number. If your contact information changes after the filing is completed, make sure you update the filing information in time to prevent missing filing messages.
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15399351166178_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15439126496178_en-US.png)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15399351176179_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15439126506179_en-US.png)
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15399351176180_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14198/15439126506180_en-US.png)
 
 5.  Upload the required materials.
 
@@ -76,7 +76,7 @@ Alibaba Cloud provides two types of ICP Filing transfer:
 
 |
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15399351175688_en-US.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14196/15439126505688_en-US.png)
 
     **Note:** If your photo passes review, Alibaba Cloud will forward your application to the communications administration for review within one working day.
 
@@ -99,7 +99,7 @@ Alibaba Cloud provides two types of ICP Filing transfer:
 
     **Note:** If the **Continue to transfer an ICP Filing** button is not displayed, your ICP Filing order might already be in process. You must finish that order or withdraw it before submitting another application. Before you transfer an external ICP Filing, you can cancel the filing order in progress or wait for the filing order to pass the communications administration review.
 
-3.  For next steps, see [Transfer an external ICP Filing](#section_ss5_rrz_zdb).
+3.  For next steps, see [Transfer an external ICP Filing](#).
 
 **Note:** 
 
