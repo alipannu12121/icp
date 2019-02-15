@@ -8,9 +8,13 @@ Different local authorities may have different requirements for documents and ma
 
 You need to fill in the domain name of your website for ICP registration. Domain names must meet the following requirements:
 
+The domain name for registration must be within its validity, approved by MIIT, and real-name authenticated. Administrations verify the domain name information for registration. For more information about the requirements, see [Website domain name verification for ICP registration](../../../../../reseller.en-US/FAQ/Domain name information verification.md#) and [FAQ about domain names](../../../../../reseller.en-US/FAQ/Domain name FAQs.md#).
+
+**Note:** The International Site of Alibaba Cloud \(alibabacloud.com\) only provides international domain names. Therefore, domain names registered through alibabacloud.com cannot be ICP registered. If you need to use Alibaba Cloud domain names, register and use the Domains service from the China site of Alibaba Cloud \(aliyun.com\).
+
 ## Alibaba Cloud Elastic Compute Service \(ECS\) {#section_dt4_kl4_t2b .section}
 
-To obtain ICP registration through Alibaba Cloud, you need to purchase an Alibaba Cloud ECS instance that has been deployed within Mainland China, that has a subscription of at least three months, and that has public network bandwidth assigned. If the remaining time before your ECS instance expires cannot meet the requirements for ICP registration, renew your subscription. See [FAQ about Alibaba Cloud Server and ICP Registration](../../../../reseller.en-US/FAQ/ECS instance FAQs.md#) if you have questions on the Alibaba Cloud servers and ICP registration.
+To obtain ICP registration through Alibaba Cloud, you need to purchase an Alibaba Cloud ECS instance that has been deployed within Mainland China, that has a subscription of at least three months, and that has public network bandwidth assigned. If the remaining time before your ECS instance expires cannot meet the requirements for ICP registration, renew your subscription. See [FAQ about Alibaba Cloud Server and ICP Registration](../../../../../reseller.en-US/FAQ/ECS instance FAQs.md#) if you have questions on the Alibaba Cloud servers and ICP registration.
 
 ## Materials for ICP registration {#section_w2w_5l4_t2b .section}
 
@@ -21,7 +25,7 @@ Upload clear photos or color copies of the following materials.
 |Personal registration|Required materials:-   Identification card
 -   Checklist of Authenticity of Website Information for ICP Registration
 
-Other materials:Other supporting materials that are required according to the ICP registration regulations of the local administrations such as domain certificates Follow the instructions on your registration page and upload the corresponding materials.
+Other materials:Other supporting materials that are required according to the ICP registration regulations of the local administrations such as domain certificates. Follow the instructions on your registration page and upload the corresponding materials.
 
 |
 |Organizational registration|Required materials:-   Organization registration documents
