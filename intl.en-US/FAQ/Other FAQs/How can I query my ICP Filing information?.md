@@ -6,9 +6,9 @@ You can query your ICP Filing records on Alibaba Cloud ICP Filing system or the 
 
 -   On Public Query page of the Ministry of Industry and Information Technology \(MIIT\) website \(www.miitbeian.gov.cn\), 
 
-    you can enter the website domain name, document number, ICP Filing subject name, or other information to find matching ICP Filing records. If your new domain name already has an ICP Filing number, you can query the basic ICP Filing information on the Public Query page of MIIT system. You cancel the ICP Filing  by the [Offline cancel](../../../../intl.en-US/ICP Filing Procedures/Cancel an ICP Filing.md#) method, and then apply for an new ICP Filing number.
+    you can enter the website domain name, document number, ICP Filing subject name, or other information to find matching ICP Filing records. If your new domain name already has an ICP Filing number, you can query the basic ICP Filing information on the Public Query page of MIIT system. You cancel the ICP Filing  by the [Offline cancel](../../../../../reseller.en-US/ICP Filing Procedures/Cancel an ICP Filing.md#) method, and then apply for an new ICP Filing number.
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14233/5516_en-US.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14233/15505424315516_en-US.jpg)
 
     **Note:** 
 
