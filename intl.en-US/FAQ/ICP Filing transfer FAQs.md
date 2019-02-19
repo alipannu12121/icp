@@ -19,7 +19,7 @@ The following are FAQs related to ICP Filing transfer.
 
 ## Do I have to transfer the original ICP Filing to Alibaba Cloud? {#section_jsm_c3t_zdb .section}
 
-Currently, the Ministry of Industry and Information Technology \(MIIT\) requires that ICP Filing data be recorded by the website hosting service provider. Therefore, if you change the website hosting service provider, you must apply to transfer your ICP Filing to the new service provider. Otherwise, access to your website is affected and even your ICP Filing number may be deregistered. Therefore, you must transfer your ICP Filing. For more information, see [Transfer an ICP Filing](../../../../intl.en-US/ICP Filing Procedures/Transfer an ICP license to Alibaba Cloud.md#).
+Currently, the Ministry of Industry and Information Technology \(MIIT\) requires that ICP Filing data be recorded by the website hosting service provider. Therefore, if you change the website hosting service provider, you must apply to transfer your ICP Filing to the new service provider. Otherwise, access to your website is affected and even your ICP Filing number may be deregistered. Therefore, you must transfer your ICP Filing. For more information, see [Transfer an ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/Transfer ICP Filings.md#).
 
 ## What is the difference between Add New Website for ICP Filing and New ICP Filing Transfer? {#section_ksm_c3t_zdb .section}
 
