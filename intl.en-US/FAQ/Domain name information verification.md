@@ -72,7 +72,7 @@ If a domain name does not pass the verification, possible reasons are as follows
 
     Solution: Complete domain name real-name authentication and make sure the information is consistent with the information of the ICP Filing subject or the subject administrator. If you are an Alibaba Cloud domain name user \(aliyun.com\), log on to the Alibaba Cloud domain name console to complete real-name authentication.
 
--   You have completed real-name authentication for your domain name, but it has not been recorded in the MIIT system. Domain name real-name authentication information recording takes about two business days.
+-   You have completed real-name authentication for your domain name, but it has not been recorded in the MIIT system. Domain name real-name authentication information recording takes about three to five business days.
 
     Solution: Resubmit your ICP Filing application after you confirm with your domain name registrar that your domain name has been recorded in the MIIT system.
 
