@@ -6,7 +6,7 @@ If your enterprise is not registered with the mainland China government, and you
 
 If you have a physical office \(“ban shi chu” in Chinese\) in China, you can apply for ICP Filing in some provinces or municipalities, but you cannot apply for an ICP Commercial License. Documents issued outside mainland China are not accepted for ICP Filing.  If you have a registered branch company in mainland China, you can use its registration documents for ICP Filing.  If you do not have a registered company, you must apply for a Registration Certificate of Foreign Enterprises Permanent Office in China from the relevant authority and use this as a business license to submit an ICP Filing application.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14210/5239_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14210/15505421765239_en-US.png)
 
 ## What if I do not have an ICP Filing? {#section_ww1_zxr_zdb .section}
 
