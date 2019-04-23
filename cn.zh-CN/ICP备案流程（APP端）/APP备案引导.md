@@ -21,7 +21,7 @@ APP备案采用人脸识别功能。目前，部分省市（广东、重庆、�
 
 ## APP备案限制 {#section_vh3_21h_fhb .section}
 
--   目前仅广东、重庆、辽宁、安徽、福建五个省市用户，支持使用人脸识别功能进行真实性核验。
+-   目前仅广东、重庆、辽宁、安徽、福建、上海地区用户，支持使用人脸识别功能进行真实性核验。
 
     **说明：** 除以上六个省市，其他省市用户均使用幕布照片进行真实性核验。
 
@@ -35,14 +35,14 @@ APP备案采用人脸识别功能。目前，部分省市（广东、重庆、�
 
     先在手机上下载阿里云APP，进入阿里云APP后，在下方单击**控制台**，进入控制台页面后单击**网站备案**，可进入备案首页。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599442144263_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599616744263_zh-CN.png)
 
 -   PC端入口
     -   入口一
 
         目前上海、福建用户在电脑端选择主办单位性质后，会弹出使用APP备案的弹框，您可扫描弹框内二维码通过APP完成备案。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599442143696_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599616743696_zh-CN.png)
 
         **说明：** 您也可以单击**继续使用当前系统备案**，继续在电脑端完成备案。
 
@@ -50,6 +50,6 @@ APP备案采用人脸识别功能。目前，部分省市（广东、重庆、�
 
         目前上海、福建用户在电脑端完成网站信息填写后，单击**下一步，上传资料**进入上传资料页面时，会弹出使用阿里云APP上传的二维码，您扫描二维码后，可根据提示在APP端完成资料上传并提交初审。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599442143698_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/155599616743698_zh-CN.png)
 
 
