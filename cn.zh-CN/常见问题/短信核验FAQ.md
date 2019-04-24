@@ -14,7 +14,7 @@
 
 ## 短信验证未通过（验证超时），怎么办？ {#section_g4n_wrp_dgb .section}
 
-请重新提交备案信息至管局审核。提交后，备案负责人会再次收到工信部发送的短信通知。请按照短信提示，24小时内登录 [工信部验证页面](http://www.miitbeian.gov.cn) 完成短信验证。详情请参见 [备案短信核验](../../../../../intl.zh-CN/备案流程/备案短信核验.md#)。
+请重新提交备案信息至管局审核。提交后，备案负责人会再次收到工信部发送的短信通知。请按照短信提示，24小时内登录 [工信部验证页面](http://www.beian.miit.gov.cn) 完成短信验证。详情请参见 [备案短信核验](../../../../cn.zh-CN/ICP备案流程（PC端）/短信核验.md#)。
 
 ## 短信验证时，验证信息输入错误怎么办？ {#section_hbd_5dq_dgb .section}
 
@@ -28,10 +28,10 @@
 
 -   浙江省以外的其他省市备案用户：请填写港澳通行证正面的 **证件号码** 后6位，例如：345678。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/154875155134384_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/155607241034384_zh-CN.png)
 
 -   浙江省备案用户：请填写港澳通行证背面的 **香港/澳门身份证件号码** 后6位， 例如：567（8），括号需使用全角输入。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/154875155134385_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/155607241034385_zh-CN.png)
 
 
