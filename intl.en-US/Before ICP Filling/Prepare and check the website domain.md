@@ -5,7 +5,7 @@ Before you apply for an ICP filing, prepare and check the domain name of your we
 Check the following items and make sure that the domain name meets the requirements:
 
 -   Check item 1: [Real-name verification information](#section_9yx_nd1_apx)
--   Check item 2:[Check whether your domain name is qualified for an ICP filing](#section_33l_v6o_bla)
+-   Check item 2: [Check whether your domain name is qualified for an ICP filing](#section_33l_v6o_bla)
 -   Check item 3:[Confirm whether your domain name registrar has been approved by MIIT](#section_hh2_3e7_3m8)
 
 ## Check the real-name verification information of the domain name {#section_9yx_nd1_apx .section}
