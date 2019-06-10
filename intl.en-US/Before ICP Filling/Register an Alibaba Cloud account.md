@@ -9,5 +9,5 @@ The Alibaba Cloud ICP Filing system allows you to apply for an ICP filing, modif
 -   You can use separate Alibaba Cloud accounts to register and manage an ICP filing, and purchase an Alibaba Cloud instance. If your Alibaba Cloud resources and registration information are managed by different administrators, we recommend that you use separate Alibaba Cloud accounts to manage the resources and registration information.
 -   ICP filing registration does not require real-name verification. If you need to use the account that is used to register an ICP filing to purchase an Alibaba Cloud service, you must complete the real-name verification process for the account.
 
-For more information about registering an Alibaba Cloud account, see [Register an Alibaba Cloud account](https://help.aliyun.com/knowledge_detail/37195.html).
+For more information about registering an Alibaba Cloud account, see [Register an Alibaba Cloud account](https://www.alibabacloud.com/help/doc-detail/50482.htm).
 
