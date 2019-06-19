@@ -31,7 +31,7 @@ If you host your website on an Alibaba Cloud instance, you can apply for an ICP 
     **Note:** 
 
     -   If you use the same Alibaba Cloud account to purchase the instance and register an ICP filing, you can directly select the instance that needs an ICP filing during the registration process. You do not need to apply for a service identification number. You can directly select the instance or apply for a service identification number for registering an ICP filing. The number of websites supported by each instance remains the same no matter which method you choose.
-    -   If you use separate Alibaba Cloud accounts to purchase the instance and register an ICP filing, we recommend that you use the account that is used to purchase the instance to log on to the Alibaba Cloud console and apply for a service identification number. For more information, see [Apply for service identification numbers](intl.en-US/Before ICP Filling/Host instances and service providers/Apply for service identification numbers.md#).
+    -   If you use separate Alibaba Cloud accounts to purchase the instance and register an ICP filing, we recommend that you use the account that is used to purchase the instance to log on to the Alibaba Cloud console and apply for a service identification number. For more information, see [Apply for ICP Filing service numbers](../intl.en-US/Before ICP Filling/Host instances and service providers/Apply for service identification numbers.md#).
     -   To register an ICP filing, you must apply for a service identification number first. If you have used the service identification number before, you cannot reuse it to apply for another ICP filing. After you cancel an ICP filing or remove a service provider from the registration information, the service identification number is still considered used. You cannot reuse it to register an ICP filing for another website.
 
 The following table lists the supported instances and the number of websites supported by each instance type:
@@ -80,6 +80,11 @@ If your website uses Alibaba Cloud services including Object Storage Service \(O
 If the service provider or instance IP address changes, you must check and confirm the following information:
 
 -   You have registered an ICP filing for your website through other service providers before, and now you need to host the website on Alibaba Cloud instances or resolve the subdomains to Alibaba Cloud instances. In this circumstance, you must add Alibaba Cloud to the registration information due to the change of service providers.
+
+    **Note:** 
+
+    To confirm whether your website has an ICP filing, click [http://beian.miit.gov.cn/publish/query/indexFirst.action](http://www.beian.miit.gov.cn) and choose **公共查询** \> **备案信息查询** in the left-side navigation pane.
+
 -   If you have already registered an ICP filing for your website and you want to host the website on another Alibaba Cloud instance, you can modify the DNS configuration to resolve the domain to the new instance. In this circumstance, you do not need to register an ICP filing again.
 
     **Note:** However, if you change service providers, you must add the new service provider to the registration information. For more information about the procedure to add the new service provider, consult the new service provider.
