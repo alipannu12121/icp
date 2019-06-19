@@ -1,31 +1,60 @@
 # Restrictions {#concept_fyq_1bp_r2b .concept}
 
-|Restrictions|Description|
-|:-----------|:----------|
-|Prerequisite|If you want to obtain the ICP registration for your domain name through Alibaba Cloud, purchase the Alibaba Cloud service that is deployed within Mainland China first.|
-|Entity|An Alibaba Cloud account can only be registered for one entity \(organization or individual\) information. However, multiple websites can be registered under one entity.|
-|Registration for a non-local province| -   Registration for a non-local province does not apply to organizational registration.
--   For personal registration, you need to submit the local residence permits \(some administrations support this\) or replace the registration province.
+To build a website that can provide services properly, you need to specify the instance that builds the website, service provider, website information, and entity information to apply for an ICP filing. You must submit the required information for verification to ensure the authenticity and security of the services provided by your website. Pay attention to the following restrictions when you apply for an ICP filing in the Alibaba Cloud ICP Filing system.
+
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156093228341699_en-US.png)
+
+|Type|Item|Restrictions|
+|:---|:---|:-----------|
+|Instance and service provider|Instance location|If you want to obtain an ICP filing for your domain name through the Alibaba Cloud ICP Filing system, purchase an Alibaba Cloud instance that is located in Mainland China.|
+|Cross-province ICP filing| -   Organizations cannot apply for an ICP filing across provinces.
+-   Individuals that need to apply for an ICP filing across provinces must submit a copy of the residence permit as required. This method is supported by some provincial administrations. You can also choose another province to register an ICP filing.
 
  |
-|Website name|Name your website according to the standards. See [Naming requirements](../../../../intl.en-US/FAQ/Subject and website information FAQs.md#) for naming rules.|
-|Pre-approval|If your website involves the content of the industries that needs to be pre-approved, go to the relevant approval units for the procedures of pre-approval.|
-|Content delivery network \(CDN\)|If your CDN nodes are deployed in Mainland China, you need to obtain ICP registration.|
-|Registration for websites that can only be accessed through IP address|It cannot apply to registration through the Alibaba Cloud ICP Filing system. The Alibaba Cloud ICP Filing system only supports registrations for domain names.|
-|Domain name| -   The top-level domain \(TLD\) of the domain name for registration must be approved by MIIT.
--   The domain name provider must be approved by MIIT.
--   The domain name must be within its validity.
--   The domain name must be real-name authenticated.
--   Information of the domain name holder must be consistent with information of the registration subject.
--   Each website can only register for one domain name according to the ICP registration regulations of administrations of Chongqing, Guangxi, Sichuan, Liaoning, Hebei, and Henan. In other provinces and cities, each website can register for 10 domain names.
+|Instance| If you need to obtain an ICP filing for your domain name through the Alibaba Cloud ICP Filing system, you must purchase an Alibaba Cloud instance that is located in Mainland China. You can purchase the following Alibaba Cloud service instances for registering an ICP filing:
+
+ -   Elastic Compute Service: the subscription duration must be or more than three months, with a public network bandwidth assigned.
+-   Web Hosting: the subscription duration must be or more than three months.
+-   Simple Application Server: the subscription duration must be or more than three months.
+-   Elastic Web Hosting: the subscription duration must be or more than six months.
+-   NAT Gateway: the subscription duration must be or more than one month.
+-   IPv6 Translation Service: the subscription duration must be or more than one month.
+-   Edge Node Service: the subscription duration must be or more than three months.
+-   Alibaba Cloud Marketplace instances that help you build a website: the initial subscription duration of the instance must be or more than 12 months, and the order must be no less than 99 RMB.
 
  |
-|Website content| -   The website must not contain illegal content.
--   If the website involves the content of industries or enterprises, it cannot be chosen for personal registration.
+|Service identification number| -   You can apply for up to five service identification numbers for each ECS instance.
+-   You can apply for up to five service identification numbers for each Web Hosting instance.
+-   You can apply for up to five service identification numbers for each Simple Application Server instance.
+-   You can apply for up to five service identification numbers for each Web Hosting instance. You can apply for up to five service identification numbers for each Alibaba Cloud account.
+-   You can apply for up to two service identification numbers for each NAT Gateway instance.
+-   You can apply for up to two service identification numbers for each IPv6 Translation Service instance.
+-   You can apply for up to five service identification numbers for each Edge Node Service instance.
+-   You can apply for one service identification number for each website building instance and use the service identification number to apply for an ICP filing for one website.
+
+ **Note:** 
+
+-   If you have already used the service identification number and successfully obtained an ICP filing, you cannot use the same service identification number again. You can apply for only one service identification number for each website building instance. You cannot apply for a new service identification number for the same instance.
+
+-   The number of service identification numbers that you can apply for each instance is limited. You cannot increase the upper limit by renewing the instance. If the number of service identification numbers has reached the upper limit and you need to apply for a new service identification number, purchase a new instance.
 
  |
-|Server| To obtain ICP registration through Alibaba Cloud, you need to purchase an Alibaba Cloud ECS instance that has been deployed within Mainland China, that has a subscription of more than three months, and that has a public network bandwidth assigned.
+|Website information|Website name|Name your website according to the naming rules. For more information about the naming rules, see ICP Filing documentation[Naming rules](https://help.aliyun.com/knowledge_detail/36948.html).|
+|Pre-approvals|If the content of your website involves information about industries that require pre-approvals, obtain the pre-approval from the specified authority before you apply for an ICP filing.|
+|CDN|If your CDN service provides services to domains that are located in Mainland China, you must obtain an ICP filing.|
+|Domain name| -   The top-level domain \(TLD\) of the domain name that needs an ICP filing must be approved by MIIT.
+-   The domain name registrar must be approved by MIIT.
+-   The domain name must be valid.
+-   You must complete the real-name verification process for the domain name.
+-   In some provinces, **the name of the organization or individual** must be a legal person. Other scenarios require the domain holder information to be consistent with the entity information. For more information about ICP regulations of different provinces, see ICP Filing documentation[ICP regulations](https://help.aliyun.com/knowledge_detail/50270.html).
+-   Beginning April 22, 2019, each website can register an ICP filing for only one domain name. You cannot change or add domains for your website. If you have multiple domain names, register an ICP filing for each of the websites.
+-   Beginning April 22, 2019, you can register an ICP filing for only one website in Hubei province. Each website can have one domain name only.
 
  |
-|Service identification number|You can apply for five service identification numbers for each ECS instance.|
+|Websites that are accessible through IP addresses only|You cannot register an ICP filing for these websites through the Alibaba Cloud ICP Filing system. You can register an ICP filing through the Alibaba Cloud ICP Filing system for domain names only.|
+|Website content| -   The website cannot contain illegal content.
+-   If the content of the website contains information about an industry or corporate, you cannot register an ICP filing as an individual.
+
+ |
+|Entity information|Entity|Each Alibaba Cloud account can register an ICP filing for one entity only. The entity can be an organization or individual. However, each entity can register an ICP filing for multiple websites.|
 
