@@ -34,7 +34,7 @@ Domain names that have not completed the real-name verification process cannot o
 
 4.  Renew the domain name \(optional\)
 
-    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../intl.en-US/Domain name management/Renew a domain name.md#).
+    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../intl.en-US//Renew a domain name.md#).
 
 
 ## Check whether your domain name is qualified for an ICP filing {#section_33l_v6o_bla .section}
@@ -52,8 +52,8 @@ Top-level domains that are not approved by MIIT cannot obtain an ICP filing. Cou
 
     Websites whose domain names are resolved to servers located in Mainland China must register an ICP filing. After the top-level domain of your domain name obtains an ICP filing, the second-level domains and subdomains using this top-level domain become accessible. You do not need to apply for an ICP filing for these domain names.
 
-    -   If the ICP filing number of your top-level domain name is not obtained through Alibaba Cloud, you must add Alibaba Cloud to the service provider list in the registration information. You can add multiple service providers to the registration information for the same top-level domain. For more information, see [Add Alibaba Cloud to the registration information](../intl.en-US//Transfer ICP Filings.md#).
-    -   According to MIIT regulations, websites using a top-level domain that does not have an ICP filing cannot provide services. Only after the top-level domain obtains an ICP filing, the second-level domains and subdomains using the top-level domain are allowed to provide services. For more information, see [ICP filing procedure](../intl.en-US//ICP Filing for the first time.md#).
+    -   If the ICP filing number of your top-level domain name is not obtained through Alibaba Cloud, you must add Alibaba Cloud to the service provider list in the registration information. You can add multiple service providers to the registration information for the same top-level domain.
+    -   According to MIIT regulations, websites using a top-level domain that does not have an ICP filing cannot provide services. Only after the top-level domain obtains an ICP filing, the second-level domains and subdomains using the top-level domain are allowed to provide services.
 
 ## Confirm whether your domain name registrar has been approved by MIIT {#section_hh2_3e7_3m8 .section}
 
