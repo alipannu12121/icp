@@ -29,18 +29,18 @@ An Alibaba Cloud ICP Filing is not required if you do not purchase any ECS insta
 
 ## Under what conditions is the initial ICP Filing required? {#section_omc_r25_jgb .section}
 
-You need to apply for the[initial ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/ICP Filing for the first time.md#) in the Alibaba Cloud ICP Filing system before service activation if the subject and domain name have not completed ICP Filing before.
+You need to apply for the initial ICP Filing in the Alibaba Cloud ICP Filing system before service activation if the subject and domain name have not completed ICP Filing before.
 
 ## Under what conditions is an ICP Filing required? {#section_srs_v25_jgb .section}
 
-You need to apply for an[ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/Transfer ICP Filings.md#) if you want to transfer the ICP Filing of the subject and domain name from the original service provider to Alibaba Cloud or add Alibaba Cloud as a new ICP Filing provider of your website.
+You need to apply for an ICP Filing if you want to transfer the ICP Filing of the subject and domain name from the original service provider to Alibaba Cloud or add Alibaba Cloud as a new ICP Filing provider of your website.
 
 ## Under what conditions do I need to add a website ICP Filing? {#section_b24_df5_jgb .section}
 
--   You need to apply for a[website ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/Add new websites for ICP Filing (for new Alibaba Cloud ICP Filing users).md#) if your filing subject has been filed with another service provider and you want to apply for an ICP Filing for a new website domain name in Alibaba Cloud when purchasing ECS instances.
--   You need to apply for a [website ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/Add a new website for ICP Filing (for old users that have filed website domain names with Alibaba Cloud).md#) if your filing subject has been filed with Alibaba Cloud and your new website is hosted on an ECS instance.
+-   You need to apply for a website ICP Filing if your filing subject has been filed with another service provider and you want to apply for an ICP Filing for a new website domain name in Alibaba Cloud when purchasing ECS instances.
+-   You need to apply for a website ICP Filing if your filing subject has been filed with Alibaba Cloud and your new website is hosted on an ECS instance.
 
 ## Under what conditions does the ICP Filing need to be changed? {#section_fyg_sf5_jgb .section}
 
-You need to[change your ICP Filing](../../../../../reseller.en-US/ICP Filing Procedures/Change ICP Filing information.md#)on the Alibaba Cloud ICP Filing platform if your website has an ICP Filing number in Alibaba Cloud and you want to modify the information about the filing subject or website.
+You need to change your ICP Filing on the Alibaba Cloud ICP Filing platform if your website has an ICP Filing number in Alibaba Cloud and you want to modify the information about the filing subject or website.
 
