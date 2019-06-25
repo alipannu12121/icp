@@ -4,18 +4,18 @@
 
 原万网备案平台（[beian.aliyun.com/account/login.htm](http://beian.aliyun.com/account/login.htm)）仅支持登录，不再提供备案服务。如需备案，请登录新平台——阿里云ICP代备案系统（[beian.aliyun.com](https://beian.aliyun.com/)）操作。建议您尽快将原万网中的备案信息导入阿里云ICP代备案系统。
 
--   [如何将原万网 ICP 代备案管理平台信息导入新阿里云备案平台？](#section_ghf_kds_zdb)
--   [忘记原万网备案登录账号怎么办？](#section_mhf_kds_zdb)
+-    [如何将原万网 ICP 代备案管理平台信息导入新阿里云备案平台？](#section_ghf_kds_zdb) 
+-    [忘记原万网备案登录账号怎么办？](#section_mhf_kds_zdb) 
 
 ## 将原万网 ICP 代备案管理平台信息导入新阿里云备案平台 {#section_ghf_kds_zdb .section}
 
 1.  使用您的阿里云账号登录 [阿里云 ICP 代备案管理系统](http://beian.aliyun.com/) 后，单击 **导入备案信息** 按钮。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15611005655263_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15614655925263_zh-CN.png)
 
 2.  单击 **导入信息继续备案**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15611005655269_zh-CN.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15614655935269_zh-CN.jpg)
 
 3.  输入原备案平台的备案账号及密码进行备案账号验证，验证成功后即可将备案信息导入新平台。
 
@@ -28,8 +28,15 @@
 
 1.  准备资料。
 
-    -   个人：备案申请人身份证原件正面和反面扫描件或拍照件，以及申请人手持身份证半身照。
-    -   单位：申请人手持主办单位有效证件原件的半身照。加盖单位公章的授权书，同时提供申请人身份证（二代身份证提供正、反两面）原件照片或原件扫描件。
+    -   个人
+        -   备案申请人身份证正、反两面原件照片或原件彩色扫描件。
+
+        -   备案申请人手持身份证半身照。
+    -   单位
+        -   备案申请人手持主办单位有效证件原件的半身照。
+        -   加盖单位公章的授权书，授权书可单击[授权委托书](https://beian.aliyun.com/account/downloadChangeLoginSqs.do)进行下载。
+        -   备案申请人身份证正、反两面原件照片或原件彩色扫描件。
+
     **说明：** 请填写真实准确的信息，上传真实有效的清晰图片。
 
 2.  初始化邮箱。
