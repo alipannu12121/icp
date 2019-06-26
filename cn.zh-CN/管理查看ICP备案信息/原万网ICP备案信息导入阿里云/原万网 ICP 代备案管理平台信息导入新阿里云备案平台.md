@@ -11,11 +11,11 @@
 
 1.  使用您的阿里云账号登录 [阿里云 ICP 代备案管理系统](http://beian.aliyun.com/) 后，单击 **导入备案信息** 按钮。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15614655925263_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15615124155263_zh-CN.png)
 
 2.  单击 **导入信息继续备案**。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15614655935269_zh-CN.jpg)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14212/15615124165269_zh-CN.jpg)
 
 3.  输入原备案平台的备案账号及密码进行备案账号验证，验证成功后即可将备案信息导入新平台。
 
@@ -29,13 +29,13 @@
 1.  准备资料。
 
     -   个人
-        -   备案申请人身份证正、反两面原件照片或原件彩色扫描件。
+        -   备案申请人身份证正、反两面原件彩色扫描件或照片。
 
         -   备案申请人手持身份证半身照。
     -   单位
         -   备案申请人手持主办单位有效证件原件的半身照。
         -   加盖单位公章的授权书，授权书可单击[授权委托书](https://beian.aliyun.com/account/downloadChangeLoginSqs.do)进行下载。
-        -   备案申请人身份证正、反两面原件照片或原件彩色扫描件。
+        -   备案申请人身份证正、反两面原件彩色扫描件或照片。
 
     **说明：** 请填写真实准确的信息，上传真实有效的清晰图片。
 
