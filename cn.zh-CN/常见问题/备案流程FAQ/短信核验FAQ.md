@@ -32,7 +32,7 @@
 
 -   如果负责人证件号码输错 5 次后，系统提示短信核验失败，您的备案申请信息将被工信部系统退回。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/156404784634385_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/156439673834385_zh-CN.png)
 
     您需登录[阿里云ICP代备案平台](https://beian.aliyun.com/order/index.htm)，单击**提交备案**，重新提交备案信息至管局审核。
 
@@ -43,7 +43,7 @@
 
     您的信息输入错误或输入的三条信息（短信验证码、手机号码、证件号码后6位）不匹配，则系统找不到对应的订单。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/156404784634384_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/79991/156439673834384_zh-CN.png)
 
 -   **处理方法** 
 
@@ -51,11 +51,11 @@
 
     -   浙江省以外的其他省市备案用户：请填写港澳通行证正面的 **证件号码** 后6位，例如：345678。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14204/15640478465573_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14204/15643967385573_zh-CN.png)
 
     -   浙江省备案用户：请填写港澳通行证背面的 **香港/澳门身份证件号码** 后6位， 例如：567（8），括号需使用全角输入。
 
-        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14204/15640478465578_zh-CN.png)
+        ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14204/15643967385578_zh-CN.png)
 
 
 ## 短信核验已提交，为什么还是显示需要验证？ {#section_7ef_eij_i46 .section}
