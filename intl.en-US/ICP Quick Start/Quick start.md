@@ -6,7 +6,7 @@ If the instance that hosts your website is located in Mainland China, you must r
 
 To apply for an ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/selfBaIndex.htm), follow these steps:
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14194/156497582847105_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14194/156497589347105_en-US.png)
 
 1.  Prerequisites
     -   Domain name: register the domain name and complete the real-name verification process before you apply for an ICP filing.
