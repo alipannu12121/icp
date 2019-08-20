@@ -4,7 +4,7 @@
 
 **说明：** 了解阿里云CDN并开通，请前往[CDN产品详情页](https://www.aliyun.com/product/cdn)。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156386841251470_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156627309651470_zh-CN.png)
 
 此种场景下：
 
@@ -13,8 +13,8 @@
     |域名|应用场景|是否要备案|
     |--|----|-----|
     |网站域名|用于网站访问，且域名解析至中国大陆境内服务器。|是|
-    |CDN加速域名|CDN通过加速域名将源站上的资源缓存到CDN的加速节点，实现资源访问加速 。|     -   大陆境内加速或全球加速：是
-    -   港澳台及海外加速：否
+    |CDN加速域名|CDN通过加速域名将源站上的资源缓存到CDN的加速节点，实现资源访问加速 。|     -   中国大陆境内加速或全球加速：是
+    -   中国港澳台及海外加速：否
  **说明：** 由于网站域名*www.example.com*已完成备案，其子域名无需再次备案，建议您可以使用网站域名的子域名作为CDN的加速域名，例如使用*video.example.com*或*\*.example.com*来作为加速域名。
 
  |
