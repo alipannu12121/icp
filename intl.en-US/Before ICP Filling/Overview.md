@@ -126,7 +126,7 @@ Upload photos or scanned color copies of the following materials:
     |Certificate of change|If the certificate of the ICP filing entity is changed, for example, the business license is replaced by a new one with the certificate number changed, a certificate of change issued by the corresponding authority is required.|
 
 
-For more information about other required materials, see in the ICP filing documentation[Upload required materials](https://help.aliyun.com/knowledge_detail/36962.html#title-9a9-zj8-a09).
+For more information about other required materials, see [Prepare materials required for applying for an ICP filing](reseller.en-US/Before ICP Filling/Prepare materials required for applying for an ICP filing.md#).
 
 When uploading the materials, comply with the following upload requirements:
 
