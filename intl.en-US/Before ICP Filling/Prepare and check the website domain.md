@@ -12,7 +12,7 @@ Check the following items and make sure that the domain name meets the requireme
 
 Domain names that have not completed the real-name verification process cannot obtain an ICP filing. Make sure that you have completed the real-name verification process for your domain name and the real-name verification information is consistent with the ICP registration information. If your domain name is registered through Alibaba Cloud, you can perform the following steps to view the real-name verification information.
 
-**Note:** The Alibaba Cloud International Site \(www.alibabacloud.com\) provides domain name registration services for domains whose servers are not located in Mainland China. Therefore, if domain names are registered on the Alibaba Cloud International Site, you cannot apply for an ICP filing. If you need to register a domain name that can obtain an ICP filing, register the domain name on the Alibaba Cloud China Site \(www.aliyun.com\).
+**Note:** The Alibaba Cloud international site \(alibabacloud.com\) provides domain name registration services for domains whose servers are not located in Mainland China. Therefore, if domain names are registered on the Alibaba Cloud international site \(alibabacloud.com\), you cannot apply for an ICP filing. If you need to use a domain name that is qualified for an ICP filing, register the domain name on the Alibaba Cloud China site \(aliyun.com\).
 
 1.  View the real-name verification information
 
@@ -24,7 +24,7 @@ Domain names that have not completed the real-name verification process cannot o
     3.  The real-name verification information is displayed on the **Basic Information** page.
 2.  Transfer the domain name \(optional\)
 
-    If the domain holder information is inconsistent with the entity information, you can transfer the domain name to the entity to keep the information consistent. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14320.md\#](../../../../../intl.en-US/Domain name management/Domain name management overview.md#).
+    If the domain holder information is inconsistent with the entity information, you can transfer the domain name to the entity to keep the information consistent. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14320.md\#](../../../../../intl.en-US/Domain name management/Change domain information/Domain name management overview.md#).
 
 3.  Real-name verification \(optional\)
 
@@ -34,7 +34,7 @@ Domain names that have not completed the real-name verification process cannot o
 
 4.  Renew the domain name \(optional\)
 
-    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../intl.en-US//Renew a domain name.md#).
+    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../intl.en-US/Domain name management/Renew domain names/Renew a domain name.md#).
 
 
 ## Check whether your domain name is qualified for an ICP filing {#section_33l_v6o_bla .section}
