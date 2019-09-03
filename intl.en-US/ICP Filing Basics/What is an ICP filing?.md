@@ -6,7 +6,7 @@ According to the *Administrative Measures for Internet Information Services* and
 
 As shown in the following figure, websites that are built to provide services for users involve the following information: instance and access information, website information, and entity information. To apply for an ICP filing, you must submit the preceding information to the Ministry of Industry and Information Technology \(MIIT\) so that it can verify the authenticity and security of the services provided by your website.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156749213941699_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156749227741699_en-US.png)
 
 Alibaba Cloud provides the Alibaba Cloud ICP Filing system to help you apply for an ICP filing, modify ICP filing information, cancel an ICP filing, and claim an ICP filing. You can access the Alibaba Cloud ICP Filing system from a PC or the Alibaba Cloud app.
 
