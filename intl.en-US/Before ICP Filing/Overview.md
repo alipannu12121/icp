@@ -4,7 +4,7 @@ For quick application of an Internet Content Provider \(ICP\) filing, we recomme
 
 ## Read and understand the MIIT ICP regulations {#section_17y_evw_1bg .section}
 
-The Ministry of Industry and Information Technology \(MIIT\) has different regulations and requires different documents for ICP filing applications in different provinces, autonomous regions, and municipalities of China. We recommend that you read and understand the [MIIT ICP regulations](https://beian.aliyun.com/?spm=a2c4g.750001.765261.5.GoB9kU#MapDataContainer) of different provinces, autonomous regions, and municipalities, or you can learn about the regulations on [http://www.beian.miit.gov.cn](http://www.beian.miit.gov.cn).
+The Ministry of Industry and Information Technology \(MIIT\) has different regulations and requires different documents for ICP filing applications in different provinces, autonomous regions, and municipalities of China. We recommend that you read and understand the [MIIT ICP regulations](https://beian.aliyun.com/?spm=a2c4g.750001.765261.5.GoB9kU#MapDataContainer) of different provinces, autonomous regions, and municipalities, or you can learn about the regulations on [http://www.beian.miit.gov.cn](http://www.beian.miit.gov.cn) \(available in Chinese only\).
 
 ## Prepare and check the website domain name {#section_qjf_lxl_zdb .section}
 
@@ -16,10 +16,10 @@ You must specify the domain name of your website when you apply for an ICP filin
 -   The domain name is valid.
 -   The domain name registrar has been approved by MIIT.
 -   Individual entities must be the owner of the website. Organization entities can be the organization, shareholder, senior executive, or the person in charge.
--   You have completed real-name verification for the domain name. For more information about real-name verification for a domain name registered through Alibaba Cloud, see [Real-name verification overview](https://help.aliyun.com/document_detail/35881.html) and [FAQ about real-name verification](https://help.aliyun.com/document_detail/41880.html). If your domain name is not registered through Alibaba Cloud, consult the domain name registrar for more information.
+-   You have completed real-name verification for the domain name. For more information about real-name verification for a domain name registered through Alibaba Cloud, see [Real-name verification overview](https://help.aliyun.com/document_detail/35881.html) and [FAQ about real-name verification](https://help.aliyun.com/document_detail/41880.html) \(available in Chinese only\). If your domain name is not registered through Alibaba Cloud, consult the domain name registrar for more information.
 -   The entity information that you specify in the ICP filing information must be consistent with the real-name verification information of the domain name holder. Verify that the following information is consistent: name, certificate type, and certificate number.
 
-For more information, see [Prepare and check the website domain](reseller.en-US/Before ICP Filing/Prepare and check the website domain.md#).
+For more information, see [Prepare and check the website domain name](reseller.en-US/Before ICP Filing/Prepare and check the website domain name.md#).
 
 ## Prepare and check the instance {#section_dt4_kl4_t2b .section}
 
@@ -135,7 +135,7 @@ When uploading the materials, comply with the following upload requirements:
 
 ## Register an Alibaba Cloud account {#section_y3g_uh5_r3c .section}
 
-Before you apply for an ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/index.htm), you must register an Alibaba Cloud account. For more information, see [Register an Alibaba Cloud account](reseller.en-US/Before ICP Filing/Register an Alibaba Cloud account.md#).
+Before you apply for an ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/index.htm) \(available in Chinese only\), you must register an Alibaba Cloud account. For more information, see [Register an Alibaba Cloud account](reseller.en-US/Before ICP Filing/Register an Alibaba Cloud account.md#).
 
 ## Optional. Complete the pre-approval process. {#section_zjk_wev_wk6 .section}
 
