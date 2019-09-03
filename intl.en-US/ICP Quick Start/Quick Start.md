@@ -14,20 +14,20 @@ To apply for an ICP filing, you can use the Alibaba Cloud ICP Filing system on a
 
 The procedures for applying for an ICP filing on a PC and in the Alibaba Cloud app are similar. The following figure shows the procedure on a PC. The differences between the procedures on a PC and in the Alibaba Cloud app will be described in each step.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14194/156741190550198_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14194/156747759050198_en-US.png)
 
 1.  Preparations
-    -   Register an Alibaba Cloud account. Before applying for an ICP filing, you must register an Alibaba Cloud account for submitting the ICP filing application and maintaining ICP filing information later. For more information, see [Register an Alibaba Cloud account](../../../../reseller.en-US/Before ICP Filling/Register an Alibaba Cloud account.md#).
-    -   Prepare a domain name. You must register a domain name and complete real-name verification before applying for an ICP filing. For more information, see [Prepare and check the website domain](../../../../reseller.en-US/Before ICP Filling/Prepare and check the website domain.md#).
+    -   Register an Alibaba Cloud account. Before applying for an ICP filing, you must register an Alibaba Cloud account for submitting the ICP filing application and maintaining ICP filing information later. For more information, see [Register an Alibaba Cloud account](../../../../reseller.en-US/Before ICP Filing/Register an Alibaba Cloud account.md#).
+    -   Prepare a domain name. You must register a domain name and complete real-name verification before applying for an ICP filing. For more information, see [Prepare and check the website domain name](../../../../reseller.en-US/Before ICP Filing/Prepare and check the website domain name.md#).
     -   Prepare an instance.
 
-        Purchase an Alibaba Cloud instance that is located in Mainland China or obtain a service identification number for an Alibaba Cloud instance. Then, verify that the instance meets the requirements for applying for an ICP filing. For more information, see [Prepare and check the instance](../../../../reseller.en-US/Before ICP Filling/Host instances and service providers/Prepare and check the instance.md#).
+        Purchase an Alibaba Cloud instance that is located in Mainland China or obtain a service identification number for an Alibaba Cloud instance. Then, verify that the instance meets the requirements for applying for an ICP filing. For more information, see [Prepare and check the instance](../../../../reseller.en-US/Before ICP Filing/Host instances and service providers/Prepare and check the instance.md#).
 
     -   Optional. Complete the pre-approval process.
 
-        You must obtain a pre-approval from the specified authority if your website provides the following information or services: news, publishing, medical devices, culture, broadcasting, films, TV programs, education, medicine, healthcare, car-booking services, and electronic bulletin board services. For more information, see [Pre-approval](../../../../reseller.en-US/Before ICP Filling/Pre-approval.md#).
+        You must obtain a pre-approval from the specified authority if your website provides the following information or services: news, publishing, medical devices, culture, broadcasting, films, TV programs, education, medicine, healthcare, car-booking services, and electronic bulletin board services. For more information, see [Pre-approval](../../../../reseller.en-US/Before ICP Filing/Pre-approval.md#).
 
-    -   Learn ICP regulations of MIIT. You must read and understand the MIIT ICP regulations and prepare the ICP filing information as required. For more information, see [ICP filing regulations of MIIT in different regions](../../../../reseller.en-US/Before ICP Filling/Read and understand the ICP regulations/ICP filing regulations of MIIT in different regions.md#).
+    -   Learn ICP regulations of MIIT. You must read and understand the MIIT ICP regulations and prepare the ICP filing information as required. For more information, see [ICP filing regulations of MIIT in different regions](../../../../reseller.en-US/Before ICP Filing/Read and understand the ICP regulations/ICP filing regulations of MIIT in different regions.md#).
 2.  Procedure
 
     As described in [What is an ICP filing](../../../../reseller.en-US/ICP Filing Basics/What is an ICP filing?.md#), MIIT verifies the following information when you apply for an ICP filing: instance, service provider, website, and entity information. You must submit the required information or documents in the Alibaba Cloud ICP Filing system.
