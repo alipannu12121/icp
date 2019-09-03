@@ -8,7 +8,7 @@
 -   The entity leader must be filled out with the name of the legal representative. Foreign citizens cannot apply for an ICP filing.
 -   From 00:00 on January 1, 2018, the relevant authorities start performing domain name verification for all submitted website ICP filing applications. , see
 -   The name of the domain name holder must be consistent with the enterprise name or the name of the legal representative.
--   For more information about website naming, in the ICP filing documentation[see Enterprise website naming requirements](https://help.aliyun.com/knowledge_detail/36948.html#title-yw5-zl7-utv) \(available in Chinese only\).
+-   For more information about website naming, in the ICP filing documentation [see Enterprise website naming requirements](https://help.aliyun.com/knowledge_detail/36948.html#title-yw5-zl7-utv) \(available in Chinese only\).
 -   The domain name must be valid for more than three months.
 
  **Required materials** 
@@ -35,7 +35,7 @@ An enterprise ICP filing can be modified into another enterprise or an individua
 -   From 00:00 on January 1, 2018, the relevant authorities start performing domain name verification for all submitted website ICP filing applications. , see
 -   The name of the domain name holder must be consistent with that of the ICP filing entity.
 -   The domain name must be valid for more than three months.
--   For more information about personal website naming, in the ICP filing documentation[see Personal website naming requirements](https://help.aliyun.com/knowledge_detail/36948.html#title-lhm-b1g-ehx) \(available in Chinese only\).
+-   For more information about personal website naming, in the ICP filing documentation [see Personal website naming requirements](https://help.aliyun.com/knowledge_detail/36948.html#title-lhm-b1g-ehx) \(available in Chinese only\).
 
  **Required materials** 
 
