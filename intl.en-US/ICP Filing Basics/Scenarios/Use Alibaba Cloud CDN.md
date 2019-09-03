@@ -4,7 +4,7 @@ If your website is hosted in an Alibaba Cloud instance located in Mainland China
 
 **Note:** For more information about Alibaba Cloud CDN, visit the [Alibaba Cloud CDN product page](https://www.aliyun.com/product/cdn).
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156741177451470_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156749368051470_en-US.png)
 
 In this scenario:
 
@@ -21,6 +21,6 @@ In this scenario:
 
 -   **Do I need to add Alibaba Cloud to the ICP filing information as a service provider?** 
 
-    When you use Alibaba Cloud CDN to accelerate content delivery in Mainland China or global regions, the ICP filing information of the accelerating domain name must exist in the Alibaba Cloud ICP Filing system. We recommend that you apply for the ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/selfBaIndex.htm). For more information, see [Quick Start](../../../../reseller.en-US/ICP Quick Start/Quick Start.md#).
+    When you use Alibaba Cloud CDN to accelerate content delivery in Mainland China or global regions, the ICP filing information of the accelerating domain name must exist in the Alibaba Cloud ICP Filing system. We recommend that you apply for the ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/selfBaIndex.htm) \(available in Chinese only\). For more information, see [Quick Start](../../../../reseller.en-US/ICP Quick Start/Quick Start.md#).
 
 
