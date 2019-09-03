@@ -6,7 +6,7 @@ According to the *Administrative Measures for Internet Information Services* and
 
 As shown in the following figure, websites that are built to provide services for users involve the following information: instance and access information, website information, and entity information. To apply for an ICP filing, you must submit the preceding information to the Ministry of Industry and Information Technology \(MIIT\) so that it can verify the authenticity and security of the services provided by your website.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156749285741699_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156749473841699_en-US.png)
 
 Alibaba Cloud provides the Alibaba Cloud ICP Filing system to help you apply for an ICP filing, modify ICP filing information, cancel an ICP filing, and claim an ICP filing. You can access the Alibaba Cloud ICP Filing system from a PC or the Alibaba Cloud app.
 
@@ -47,6 +47,6 @@ Pay attention to the following restrictions, requirements, and regulations when 
 
 -   Regulations
 
-    MIIT has regulations on the content and format of ICP filing information, modification of filing information, and change of the service provider. The regulations vary among provinces, autonomous regions, and municipalities. We recommend that you read and understand the [MIIT ICP regulations](https://help.aliyun.com/knowledge_detail/50270.html)in the ICP filing documentation before you apply for an ICP filing \(available in Chinese only\). You can learn about the MIIT ICP regulations of the specified province, autonomous region, or municipality and prepare the ICP filing information as required.
+    MIIT has regulations on the content and format of ICP filing information, modification of filing information, and change of the service provider. The regulations vary among provinces, autonomous regions, and municipalities. We recommend that you read and understand the [ICP filing regulations of MIIT in different regions](../intl.en-US/Before ICP Filing/Read and understand the ICP regulations/ICP filing regulations of MIIT in different regions.md#)in the ICP filing documentation before you apply for an ICP filing . You can learn about the MIIT ICP regulations of the specified province, autonomous region, or municipality and prepare the ICP filing information as required.
 
 
