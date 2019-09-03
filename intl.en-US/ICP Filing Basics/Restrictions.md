@@ -2,7 +2,7 @@
 
 To build a website that can provide services properly, you need to specify the instance that builds the website, service provider, website information, and entity information to apply for an ICP filing. You must submit the required information for verification to ensure the authenticity and security of the services provided by your website. Pay attention to the following restrictions when you apply for an ICP filing in the Alibaba Cloud ICP Filing system.
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156093228341699_en-US.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/14146/156749432941699_en-US.png)
 
 |Type|Item|Restrictions|
 |:---|:---|:-----------|
@@ -39,14 +39,14 @@ To build a website that can provide services properly, you need to specify the i
 -   The number of service identification numbers that you can apply for each instance is limited. You cannot increase the upper limit by renewing the instance. If the number of service identification numbers has reached the upper limit and you need to apply for a new service identification number, purchase a new instance.
 
  |
-|Website information|Website name|Name your website according to the naming rules. For more information about the naming rules, see ICP Filing documentation[Naming rules](https://help.aliyun.com/knowledge_detail/36948.html).|
+|Website information|Website name|Name your website according to the naming rules.|
 |Pre-approvals|If the content of your website involves information about industries that require pre-approvals, obtain the pre-approval from the specified authority before you apply for an ICP filing.|
 |CDN|If your CDN service provides services to domains that are located in Mainland China, you must obtain an ICP filing.|
 |Domain name| -   The top-level domain \(TLD\) of the domain name that needs an ICP filing must be approved by MIIT.
 -   The domain name registrar must be approved by MIIT.
 -   The domain name must be valid.
 -   You must complete the real-name verification process for the domain name.
--   In some provinces, **the name of the organization or individual** must be a legal person. Other scenarios require the domain holder information to be consistent with the entity information. For more information about ICP regulations of different provinces, see ICP Filing documentation[ICP regulations](https://help.aliyun.com/knowledge_detail/50270.html).
+-   In some provinces, **the name of the organization or individual** must be a legal person. Other scenarios require the domain holder information to be consistent with the entity information. For more information about ICP regulations of different provinces, see [ICP filing regulations of MIIT in different regions](../../../../reseller.en-US/Before ICP Filing/Read and understand the ICP regulations/ICP filing regulations of MIIT in different regions.md#).
 -   Beginning April 22, 2019, each website can register an ICP filing for only one domain name. You cannot change or add domains for your website. If you have multiple domain names, register an ICP filing for each of the websites.
 -   Beginning April 22, 2019, you can register an ICP filing for only one website in Hubei province. Each website can have one domain name only.
 
