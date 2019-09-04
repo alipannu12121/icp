@@ -19,7 +19,7 @@ You must specify the domain name of your website when you apply for an ICP filin
 -   You have completed real-name verification for the domain name. For more information about real-name verification for a domain name registered through Alibaba Cloud, see [Real-name verification overview](https://help.aliyun.com/document_detail/35881.html) and [FAQ about real-name verification](https://help.aliyun.com/document_detail/41880.html) \(available in Chinese only\). If your domain name is not registered through Alibaba Cloud, consult the domain name registrar for more information.
 -   The entity information that you specify in the ICP filing information must be consistent with the real-name verification information of the domain name holder. Verify that the following information is consistent: name, certificate type, and certificate number.
 
-For more information, see [Prepare and check the website domain name](reseller.en-US/Before ICP Filing/Prepare and check the website domain name.md#).
+For more information, see [Prepare and check the website domain name](intl.en-US/Before ICP Filing/Prepare and check the website domain name.md#).
 
 ## Prepare and check the instance {#section_dt4_kl4_t2b .section}
 
@@ -36,7 +36,7 @@ To apply for an ICP filing through the Alibaba Cloud ICP Filing system, you must
  **Note:** 
 
 -   You cannot apply for service identification numbers for pay-as-you-go instances.
--   For more information about public network bandwidth, see [Overview of configuration changes](https://help.aliyun.com/document_detail/25437.html).
+-   For more information about public network bandwidth, see [Overview of configuration changes](https://help.aliyun.com/document_detail/25437.html) \(available in Chinese only\).
 
  |[ECS](https://help.aliyun.com/document_detail/87190.html)|5 for each instance|
 |Web Hosting| -   The instance is located in Mainland China.
@@ -84,7 +84,7 @@ To apply for an ICP filing through the Alibaba Cloud ICP Filing system, you must
 -   If the remaining duration of your ECS or Elastic Web Hosting subscription does not meet the requirements, you must renew the subscription before you apply for an ICP filing.
 -   You can apply for only a limited number of service identification numbers for each instance. You cannot increase the upper limit by renewing the instance. If the number of service identification numbers has reached the upper limit and you need to apply for a new service identification number, purchase a new instance.
 
-For more information, see [Prepare and check the instance](reseller.en-US/Before ICP Filing/Host instances and service providers/Prepare and check the instance.md#).
+For more information, see [Prepare and check the instance](intl.en-US/Before ICP Filing/Host instances and service providers/Prepare and check the instance.md#).
 
 ## Prepare materials required for applying for an ICP filing {#section_w2w_5l4_t2b .section}
 
@@ -126,7 +126,7 @@ Upload photos or scanned color copies of the following materials:
     |Certificate of change|If the certificate of the ICP filing entity is changed, for example, the business license is replaced by a new one with the certificate number changed, a certificate of change issued by the corresponding authority is required.|
 
 
-For more information about other required materials, see [Prepare materials required for applying for an ICP filing](reseller.en-US/Before ICP Filing/Prepare materials required for applying for an ICP filing.md#).
+For more information about other required materials, see [Prepare materials required for applying for an ICP filing](intl.en-US/Before ICP Filing/Prepare materials required for applying for an ICP filing.md#).
 
 When uploading the materials, comply with the following upload requirements:
 
@@ -135,11 +135,11 @@ When uploading the materials, comply with the following upload requirements:
 
 ## Register an Alibaba Cloud account {#section_y3g_uh5_r3c .section}
 
-Before you apply for an ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/index.htm) \(available in Chinese only\), you must register an Alibaba Cloud account. For more information, see [Register an Alibaba Cloud account](reseller.en-US/Before ICP Filing/Register an Alibaba Cloud account.md#).
+Before you apply for an ICP filing in the [Alibaba Cloud ICP Filing system](https://beian.aliyun.com/order/index.htm) \(available in Chinese only\), you must register an Alibaba Cloud account. For more information, see [Register an Alibaba Cloud account](intl.en-US/Before ICP Filing/Register an Alibaba Cloud account.md#).
 
-## Optional. Complete the pre-approval process. {#section_zjk_wev_wk6 .section}
+## \(Optional\) Complete the pre-approval process {#section_zjk_wev_wk6 .section}
 
 If your website involves information about some special industries, such as news, publishing, medicine, and medical devices, you must complete the pre-approval process before applying for an ICP filing. You need to provide the corresponding pre-approval document when applying for an ICP filing.
 
-For more information, see [Pre-approval](reseller.en-US/Before ICP Filing/Pre-approval.md#).
+For more information, see [Pre-approval](intl.en-US/Before ICP Filing/Pre-approval.md#).
 
