@@ -8,7 +8,7 @@ Check the following items and make sure that your domain name meets the ICP fili
 
 -   Check item 1: [Real-name verification information of the domain name](#section_9yx_nd1_apx)
 -   Check item 2: [Whether your domain name is qualified for an ICP filing](#section_33l_v6o_bla)
--   Check item 3: [Check whether your domain name registrar has been approved by MIIT.](#section_hh2_3e7_3m8)
+-   Check item 3: [Whether your domain name registrar has been approved by MIIT](#section_hh2_3e7_3m8)
 
 ## Real-name verification information of the domain name {#section_9yx_nd1_apx .section}
 
@@ -26,7 +26,7 @@ Domain names for which real-name verification has not been completed cannot obta
     3.  On the **Basic Information** page that appears, view the real-name verification information.
 2.  Optional. Transfer the domain name.
 
-    If the domain name holder information is inconsistent with the entity information, you can transfer the domain name to the entity to keep the information consistent. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14320.md\#](../../../../../intl.en-US/Domain name management/Change domain information/Domain name management overview.md#).
+    If the domain name holder information is inconsistent with the entity information, you can transfer the domain name to the entity to keep the information consistent. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14320.md\#](../../../../../reseller.en-US/Domain name management/Change domain information/Domain name management overview.md#).
 
 3.  Optional. Complete real-name verification.
 
@@ -36,7 +36,7 @@ Domain names for which real-name verification has not been completed cannot obta
 
 4.  Optional. Renew the domain name.
 
-    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../intl.en-US/Domain name management/Renew domain names/Renew a domain name.md#).
+    If your domain name has expired, you must renew the domain name before you apply for an ICP filing. For more information, see [../../../../../dita-oss-bucket/SP\_119/DNDOMAIN19100060/EN-US\_TP\_14326.md\#](../../../../../reseller.en-US/Domain name management/Renew domain names/Renew a domain name.md#).
 
 
 ## Whether your domain name is qualified for an ICP filing {#section_33l_v6o_bla .section}
@@ -57,7 +57,7 @@ Top-level domain names that are not approved by MIIT cannot obtain an ICP filing
     -   If the ICP filing of your top-level domain is not obtained through Alibaba Cloud, you must add Alibaba Cloud to the service provider list in the ICP filing information. You can add multiple service providers to the ICP filing information of a top-level domain.
     -   According to MIIT regulations, websites using a top-level domain that does not have an ICP filing cannot provide services. Only after the top-level domain obtains an ICP filing, the second-level domains and sub-domains using the top-level domain are allowed to provide services.
 
-## Check whether your domain name registrar has been approved by MIIT. {#section_hh2_3e7_3m8 .section}
+## Whether your domain name registrar has been approved by MIIT {#section_hh2_3e7_3m8 .section}
 
 If your domain name registrar has not been approved by MIIT, you must transfer the domain name to an approved registrar before you apply for an ICP filing. You can perform the following steps to check whether your registrar has been approved by MIIT, and transfer your domain name to Alibaba Cloud as required.
 
@@ -75,6 +75,6 @@ If your domain name registrar has not been approved by MIIT, you must transfer t
 
 3.  Optional. Transfer the domain name to a registrar that has been approved by MIIT.
 
-    For more information about transferring domain names to Alibaba Cloud, see [Transfer your domain names to Alibaba Cloud](../../../../../intl.en-US/Domain name transfer/Transfer your domain names to Alibaba Cloud.md#).
+    For more information about transferring domain names to Alibaba Cloud, see [Transfer your domain names to Alibaba Cloud](../../../../../reseller.en-US/Domain name transfer/Transfer your domain names to Alibaba Cloud.md#).
 
 
