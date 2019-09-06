@@ -31,9 +31,11 @@
 
 使用阿里云APP申请备案时，备案申请操作步骤如下：
 
-1.  登录阿里云APP，进入APP备案操作入口。 
+**说明：** 阿里云APP需要是4.17.0及以上版本。登录阿里云APP，单击**我的** \> **设置** \> **关于我们**可查看阿里云APP的版本。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/156764965250211_zh-CN.png)
+1.  登录阿里云APP，单击右上角的**产品控制台**，在我的云产品中单击**网站备案**，进入APP备案操作入口。 
+
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/149698/156776119250211_zh-CN.png)
 
     **说明：** 如果在APP端申请备案时，系统提示您前往PC端进行操作，说明阿里云APP暂时不支持处理您的备案场景，请您参考[ICP备案（PC）端](../cn.zh-CN/ICP备案流程（PC端）/验证备案类型/验证备案类型.md#)章节在PC端操作，备案流程与APP端基本一致。
 
