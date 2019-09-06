@@ -45,7 +45,7 @@
 
  **Required materials** 
 
--   An electronic copy of the original valid identity document of the individual, such as an electronic copy of the ID card. If the ID type is an ID card, make sure that it is valid for more than three months.
+An electronic copy of the original valid identity document of the individual, such as an electronic copy of the ID card. If the ID type is an ID card, make sure that it is valid for more than three months.
 
  **ICP filing information modification** 
 
