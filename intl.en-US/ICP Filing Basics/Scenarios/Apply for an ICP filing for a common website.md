@@ -4,7 +4,7 @@ An ICP filing is required for a website hosted on a server located in Mainland C
 
 ## Requirements for Applying for an ICP filing for a common website {#section_euq_nhn_wp9 .section}
 
-![Apply for an ICP filing for a common website](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/88723/156749310252276_en-US.png)
+![Apply for an ICP filing for a common website](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/88723/156811472852276_en-US.png)
 
 In this scenario:
 
@@ -22,7 +22,7 @@ In this scenario:
 
     -   Entity information:
 
-        MIIT checks whether the organization of your website actually exists and meets relevant requirements. Different types of entities require different materials for identity verification. We recommend that you prepare all the required materials before submitting an ICP filing application. For more information, see [https://help.aliyun.com/knowledge\_detail/36962.html](https://help.aliyun.com/knowledge_detail/36962.html) \(available in Chinese only\).
+        MIIT checks whether the organization of your website actually exists and meets relevant requirements. Different types of entities require different materials for identity verification. We recommend that you prepare all the required materials before submitting an ICP filing application. For more information, see [Prepare materials required for applying for an ICP filing](../../../../reseller.en-US/Before ICP Filing/Prepare materials required for applying for an ICP filing.md#).
 
 
 ## Notes for a website that is accessible only through an IP address {#section_hr2_5cj_veg .section}
