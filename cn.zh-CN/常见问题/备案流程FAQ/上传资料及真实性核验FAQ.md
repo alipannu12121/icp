@@ -12,7 +12,6 @@
 -   [人脸核验采集人脸与公安库不一致或证件人脸与公安库不一致](#section_e52_odq_op7)
 -   [主办单位负责人姓名与工商信息库登记信息不一致](#section_fbl_xm1_4fj)
 -   [上传资料有什么要求？](#section_c1e_ddj_p7f)
--   [阿里云APP上传资料能使用相册中存储的照片吗？](#section_2pa_l1q_1dx)
 -   [负责人或单位证件在异地，如何上传资料及进行真实性核验？](#section_yfd_1d5_8rr)
 -   [授权书、网站建设方案书等在哪里下载？](#section_7tj_96l_lsg)
 
@@ -58,7 +57,7 @@
 
     您只需选择其中一个入口上传域名证书。
 
-    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/249413/156818118754619_zh-CN.png)
+    ![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/249413/156818290654619_zh-CN.png)
 
 
 ## 上传域名证书提示上传中 {#section_rvh_9lf_a5c .section}
@@ -142,10 +141,6 @@
 
 -   支持上传资料的**原件彩色扫描件或照片**。
 -   为保证您信息正常审核通过，请上传清晰、完整、有效的图片资料。
-
-## 阿里云APP上传资料能使用相册中存储的照片吗？ {#section_2pa_l1q_1dx .section}
-
-根据相关规定，要求备案信息真实准确，主办单位证件、主体负责人证件、网站负责人证件、人脸核验均需使用阿里云APP现场拍照并上传，不可以翻拍存储在手机或电脑中的证件照片，否则将导致备案审核失败。
 
 ## 负责人或单位证件在异地，如何上传资料及进行真实性核验？ {#section_yfd_1d5_8rr .section}
 
