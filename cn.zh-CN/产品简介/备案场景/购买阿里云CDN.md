@@ -4,7 +4,7 @@
 
 **说明：** 了解阿里云CDN并开通，请前往[CDN产品详情页](https://www.aliyun.com/product/cdn)。
 
-![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156627309651470_zh-CN.png)
+![](http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/947826/156870994151470_zh-CN.png)
 
 此种场景下：
 
@@ -21,6 +21,6 @@
 
 -   **备案是否需要接入阿里云** 
 
-    使用阿里云CDN进行中国大陆境内或全球加速时，需在阿里云ICP代备案系统中有域名的备案信息。推荐您参考[ICP备案快速入门](../../../../intl.zh-CN/ICP备案快速入门/ICP备案快速入门.md#)章节在[阿里云ICP代备案系统](https://beian.aliyun.com/order/selfBaIndex.htm)提交备案申请。
+    使用阿里云CDN进行中国大陆境内或全球加速时，需要域名在工信部存在备案号。如果您的域名需接入阿里云，推荐您参考[ICP备案快速入门](../../../../intl.zh-CN/ICP备案快速入门/ICP备案快速入门.md#)章节在[阿里云ICP代备案系统](https://beian.aliyun.com/order/selfBaIndex.htm)提交备案申请。
 
 
