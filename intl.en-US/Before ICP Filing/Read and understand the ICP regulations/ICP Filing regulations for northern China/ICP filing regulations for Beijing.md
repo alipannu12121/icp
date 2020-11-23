@@ -1,4 +1,4 @@
-# ICP filing regulations for Beijing {#concept_kxt_5fm_zdb .concept}
+# ICP ufiling regulations for Beijing {#concept_kxt_5fm_zdb .concept}
 
 ## Enterprise users {#section_prg_sg5_1fb .section}
 
